@@ -29,7 +29,7 @@ For questions or issues with nodes, please open an issue on Github.
 
 This node was developed for a client and they allowed me to make it public. 
 
-Developed for `Energy SOAR <https://energysoar.com?ref=kr495s>`_ - Security orchestration, automation and response tool.
+Developed for [Energy SOAR](https://energysoar.com?ref=kr495s) - Security orchestration, automation and response tool.
 
 ## Installation
 
