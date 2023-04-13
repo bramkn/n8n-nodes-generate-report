@@ -35,6 +35,8 @@ Developed for [Energy SOAR](https://energysoar.com?ref=kr495s) - Security orches
 
 Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes/installation/) in the n8n community nodes documentation.
 
+For the convert to PDF functionality you need to have Libre Office installed on the server.
+
 ## Operations
 
 * Fill in placeholders of a DocX file.
