@@ -37,8 +37,8 @@ Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes
 
 ## Operations
 
-Fill in placeholders of a DocX file.
-Convert to pdf with Libre office, keep in mind that Libre office should be installed on the server. When using Docker it needs to be installed inside the image.
+* Fill in placeholders of a DocX file.
+* Convert to pdf with Libre office, keep in mind that Libre office should be installed on the server. When using Docker it needs to be installed inside the image.
 
 ## Compatibility
 
