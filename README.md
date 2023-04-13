@@ -1,20 +1,35 @@
+![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)
+
 # n8n-nodes-generate-report
 
-Developed for `Energy SOAR <https://energysoar.com?ref=kr495s>`_ - Security orchestration, automation and response tool.
-
-This is an n8n community node. It lets you use _app/service name_ in your n8n workflows.
-
-_App/service name_ is _one or two sentences describing the service this node integrates with_.
+This is an n8n community node. It lets you fill a docx file with data using placeholders.
 
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
-[Installation](#installation)  
-[Operations](#operations)  
-[Credentials](#credentials)  <!-- delete if no auth needed -->  
-[Compatibility](#compatibility)  
-[Usage](#usage)  <!-- delete if not using this section -->  
-[Resources](#resources)  
-[Version history](#version-history)  <!-- delete if not using this section -->  
+## Developer
+
+Hi, 
+
+My name is Bram and I am the developer of this node.
+I am an independant consultant and expert partner of n8n.
+My nodes are free to use for everyone, but please consider [donating](https://donate.stripe.com/3cs5oe7xM6L77Yc5ko) when you use my nodes.
+This helps me to build and maintain nodes for everyone to use.
+
+If you are looking for some outside help with n8n, I can of course also offer my services.
+* Node Development
+* Workflow Development
+* Mentoring
+* Support
+
+Please contact me @ bram@knitco.nl if you want to make use of my services.
+
+For questions or issues with nodes, please open an issue on Github.
+
+## Sponsor
+
+This node was developed for a client and they allowed me to make it public. 
+
+Developed for `Energy SOAR <https://energysoar.com?ref=kr495s>`_ - Security orchestration, automation and response tool.
 
 ## Installation
 
@@ -22,29 +37,17 @@ Follow the [installation guide](https://docs.n8n.io/integrations/community-nodes
 
 ## Operations
 
-_List the operations supported by your node._
-
-## Credentials
-
-_If users need to authenticate with the app/service, provide details here. You should include prerequisites (such as signing up with the service), available authentication methods, and how to set them up._
+Fill in placeholders of a DocX file.
+Convert to pdf with Libre office, keep in mind that Libre office should be installed on the server. When using Docker it needs to be installed inside the image.
 
 ## Compatibility
 
-_State the minimum n8n version, as well as which versions you test against. You can also include any known version incompatibility issues._
-
-## Usage
-
-_This is an optional section. Use it to help users with any difficult or confusing aspects of the node._
-
-_By the time users are looking for community nodes, they probably already know n8n basics. But if you expect new users, you can link to the [Try it out](https://docs.n8n.io/try-it-out/) documentation to help them get started._
+Developed on an older version of n8n but since then tested on version 0.222.1
 
 ## Resources
 
 * [n8n community nodes documentation](https://docs.n8n.io/integrations/community-nodes/)
-* _Link to app/service documentation._
 
 ## Version history
 
-_This is another optional section. If your node has multiple versions, include a short description of available versions and what changed, as well as any compatibility impact._
-
-
+v1.0
