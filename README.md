@@ -4,6 +4,8 @@
 
 This is an n8n community node. It lets you fill a docx file with data using placeholders.
 
+![image](https://user-images.githubusercontent.com/74856333/231965567-1669d63f-8cca-47b0-9566-9dbc1555915d.png)
+
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
 ## Developer
