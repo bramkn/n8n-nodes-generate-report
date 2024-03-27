@@ -6,6 +6,8 @@ This is an n8n community node. It lets you fill a docx file with data using plac
 
 ![image](https://user-images.githubusercontent.com/74856333/231965567-1669d63f-8cca-47b0-9566-9dbc1555915d.png)
 
+![2024-03-27 13_46_58-Window](https://github.com/bramkn/n8n-nodes-generate-report/assets/74856333/967a568a-8fdf-4fb1-b782-8799a6430112)
+
 [n8n](https://n8n.io/) is a [fair-code licensed](https://docs.n8n.io/reference/license/) workflow automation platform.
 
 ## Developer
